@@ -1,0 +1,75 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Bloco_2{
+  margin-top: 5%;
+  height: 700px;
+}
+
+.bloco3 {
+  background: rgb(18, 56, 114) !important;
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+  
+
+}
+
+.cursos {
+  height: 1%;
+  margin: 1%;
+  margin-left: 5%;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: large;
+  color: black;
+  background: linear-gradient(90deg, rgba(232, 96, 34, 1) 14%, rgba(237, 113, 42, 1) 30%, rgba(255, 146, 40, 1) 53%, rgba(255, 146, 40, 1) 61%,  rgb(255, 159, 64) 90%, rgb(247, 179, 112) 100%);
+}
+#orange_color {
+  color: rgb(255, 118, 0);
+}

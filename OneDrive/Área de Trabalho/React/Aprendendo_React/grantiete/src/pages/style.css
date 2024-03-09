@@ -1,0 +1,35 @@
+.box_3{
+    height: 600px;
+    background-image: url(../../public/img/03\ 1.png);
+    color: white;
+    font-weight: bold;
+}
+.curso{
+    height: 1%;
+    margin: 1%;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    background: linear-gradient(90deg, rgba(232, 96, 34, 1) 14%, rgba(237, 113, 42, 1) 30%, rgba(255, 146, 40, 1) 53%, rgba(255, 146, 40, 1) 61%,  rgb(255, 159, 64) 90%, rgb(247, 179, 112) 100%);
+}
+
+.espaco{
+    margin-top: 100px !important;
+}
+
+.Titulo{
+    font-size: 60px;
+}
+
+.fonte_laranja{
+    color: rgba(232, 96, 34, 1) ;
+}
+
+.tamanho{
+    width: 450px;
+}
