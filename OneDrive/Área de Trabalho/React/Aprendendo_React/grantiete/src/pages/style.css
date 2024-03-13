@@ -27,9 +27,24 @@
 }
 
 .fonte_laranja{
-    color: rgba(232, 96, 34, 1) ;
+    color: rgba(232, 96, 34, 1) !important;
 }
 
 .tamanho{
     width: 450px;
+}
+
+.adm_1{
+    margin-top: 20px;
+}
+
+.verificado{
+    width: 30px;
+}
+
+.centro{
+    margin: 25px;
+    border-radius: 20px !important;
+    background: rgb(55, 55, 55)!important;
+    color: white !important;
 }

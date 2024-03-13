@@ -51,21 +51,21 @@ export default function App() {
                 <NavDropdown title="Nossos cursos" id="basic-nav-dropdown" >
                   <Row>
                     <Col>
-                      <NavDropdown.Item href="./pages/cursos/adm">Administração</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/arquitetura_urbanismo">Arquitetura & Urbanismo</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/ciencia_contabeis">Ciências Contabeis</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/educacoes_fisica">Educação Física</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/enfermagem">Enfermagem</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/eng_civil">Engenharia Civil</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/eng_comp">Engenharia da Computação</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/adm">Administração</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/arquitetura_urbanismo">Arquitetura & Urbanismo</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/ciencia_contabeis">Ciências Contabeis</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/educacoes_fisica">Educação Física</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/enfermagem">Enfermagem</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/eng_civil">Engenharia Civil</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/eng_comp">Engenharia da Computação</NavDropdown.Item>
                     </Col>
                     <Col>
-                      <NavDropdown.Item href="./pages/cursos/eng_prod">Engenharia de Produção</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/eng_mecanica">Engenharia Mecânica</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/farmacia">Farmacia</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/nutricao">Nutrição</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/pedagogia">Pedagogia</NavDropdown.Item>
-                      <NavDropdown.Item href="./pages/cursos/psicologia">Psicologia</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/eng_prod">Engenharia de Produção</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/eng_mecanica">Engenharia Mecânica</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/farmacia">Farmacia</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/nutricao">Nutrição</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/pedagogia">Pedagogia</NavDropdown.Item>
+                      <NavDropdown.Item href="/pages/cursos/psicologia">Psicologia</NavDropdown.Item>
                     </Col>
                   </Row>
                 </NavDropdown>
