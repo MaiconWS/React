@@ -8,7 +8,7 @@ import '../style.css';
 const arquitetura = () => {
   return (
     <>
-      <div className="adm_1">
+      <div className="mod_1">
         <Container>
           <Row>
             <Col xs={12} md={6}>

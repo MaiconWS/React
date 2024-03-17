@@ -110,7 +110,7 @@ export default function App() {
         </Routes>
       </BrowserRouter>
       <footer>
-
+        
       </footer>
     </div>
   );
